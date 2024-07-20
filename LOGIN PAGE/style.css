@@ -1,0 +1,36 @@
+.box
+{
+    width: 380px;
+    height: 600px;
+    border: 10px solid rgb(254, 202, 133); 
+    color: brown;
+    background-color: bisque;
+    padding: 20px; 
+    margin: 20px; 
+    box-sizing: border-box;  
+}
+.background-image {
+    background-image: url('beauty.PNG');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    width: 100vw; 
+    height: 100vh; 
+    color: white; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.one
+{
+    text-align: left;
+}
+.two
+{
+    text-align: left;
+}
+.three
+{
+    text-align: right;
+}
